@@ -19,7 +19,7 @@ Visit 'http://localhost:3000' for the AI interface.
 Visit 'https://localhost:9000' for the infrastructure dashboard. 
 
 # Architecture
-'''
+```text
 local-ai-lab/
 ├── infrastructure/
 │ └── docker-compose.yml Service orchestration
@@ -28,7 +28,7 @@ local-ai-lab/
 │ └── summarizer.sh Local AI text summarizer
 └── docs/
 └── hardware-specs.md Node specifications
-'''
+```
 
 ## Services
 
